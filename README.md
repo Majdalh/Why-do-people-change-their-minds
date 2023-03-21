@@ -1,4 +1,4 @@
-# Modelling-of-Complex-Systems
+# Why do people change their minds over time?
 
 The simulation model is an agent-based model where each agent represents a person who holds an opinion about a certain issue. The opinions are represented as numerical values between -1 and 1, where -1 represents a completely negative opinion, 0 represents a neutral opinion, and 1 represents a completely positive opinion.
 
